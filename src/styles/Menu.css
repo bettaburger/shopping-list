@@ -1,0 +1,11 @@
+/* Item container
+*/
+.container {
+    background-color:#c5baba;
+    width: 100%;
+    height: auto;
+    padding: 15px 19px;
+    font-size: 1rem;
+    border: 1px solid#b2b2b2
+}
+
